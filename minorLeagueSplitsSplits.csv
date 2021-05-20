@@ -1,0 +1,60 @@
+splitID,splitName
+asRelief,As reliever
+asStart,As starter
+bat1,Batting 1st
+bat2,Batting 2nd
+bat3,Batting 3rd
+bat4,Batting 4th
+bat5,Batting 5th
+bat6,Batting 6th
+bat7,Batting 7th
+bat8,Batting 8th
+bat9,Batting 9th
+battedBT,On bunts
+battedFB,On flyballs
+battedGB,On groundballs
+battedLD,On line drives
+closeLate,Close and late
+def1,As P
+def10,As DH
+def11,As PH
+def2,As C
+def3,As 1B
+def4,As 2B
+def5,As 3B
+def6,As SS
+def7,As LF
+def8,As CF
+def9,As RF
+inning1,1st inning
+inning2,2nd inning
+inning3,3rd inning
+inning4,4th inning
+inning5,5th inning
+inning6,6th inning
+inning7,7th inning
+inning8,8th inning
+inning9,9th inning
+inningExtra,Extra innings
+menOn,Men on base
+monthApr,April
+monthAug,August
+monthJul,July
+monthJun,June
+monthMay,May
+monthSep,September
+noneOn,None on base
+outs0,No outs
+outs1,1 out
+outs2,2 outs
+parkAway,Road
+parkHome,Home
+RISP,Runners in scoring position
+scoreLead,Leading
+scoreTied,Tied
+scoreTrail,Trailing
+total,Total
+vLeft,Vs. Left
+vRelief,Vs. Reliever
+vRight,Vs. Right
+vStart,Vs. Starter
